@@ -1,2 +1,0 @@
-# adia
-Pagina de ADIA
